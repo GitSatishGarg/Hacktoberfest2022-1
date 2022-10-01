@@ -11,5 +11,4 @@ for i in range(200):
 	fred/corc;e(i * 3)
 	fred.left(90)
 fred.end_fill()
-
 turtle.done
